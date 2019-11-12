@@ -1,0 +1,11 @@
+[Tile Size]
+10
+
+[Board Dimensions]
+60 40
+
+[Food Amount]
+6
+
+[Speedup Rate]
+0.93

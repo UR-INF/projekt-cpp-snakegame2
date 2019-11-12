@@ -1,0 +1,17 @@
+﻿  compilation header save succeeded; see E:\Pobrane Firefox\Snek udziwniony\Snek backup\Engine\FramebufferPS.shh
+  compilation header save succeeded; see E:\Pobrane Firefox\Snek udziwniony\Snek backup\Engine\FramebufferVS.shh
+  Board.cpp
+  DXErr.cpp
+  FrameTimer.cpp
+  Game.cpp
+  GameSettings.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Snake.cpp
+  SpriteCodex.cpp
+E:\Pobrane Firefox\Snek udziwniony\Snek backup\Engine\Snake.cpp(11,34): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\Pobrane Firefox\Snek udziwniony\Snek backup\Engine\Snake.cpp(65,24): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  Engine.vcxproj -> E:\Pobrane Firefox\Snek udziwniony\Snek backup\x64\Debug\Engine.exe

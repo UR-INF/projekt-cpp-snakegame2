@@ -1,0 +1,19 @@
+﻿  compilation header save succeeded; see E:\Pobrane Firefox\Snek udziwniony\Snek\Engine\FramebufferPS.shh
+  compilation header save succeeded; see E:\Pobrane Firefox\Snek udziwniony\Snek\Engine\FramebufferVS.shh
+  Board.cpp
+  DXErr.cpp
+  FrameTimer.cpp
+  Game.cpp
+  GameSettings.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Snake.cpp
+  SpriteCodex.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 1100 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Engine.vcxproj -> E:\Pobrane Firefox\Snek udziwniony\Snek\Release\Engine.exe
